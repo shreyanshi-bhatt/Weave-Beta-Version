@@ -7,7 +7,7 @@ Weave is a social media platform designed to connect international students, hel
 ## 1 Goal 
 Empower international students & Make studying abroad easier. 🌏
 
-## PS: 👩🏻‍💻
+## PS
 This is the beta version of the app and the full-fledged production is under construction. 🏗🚧👷🏻‍♀️ Connect with me on LinkedIn to talk more about Weave and become a part of the Loomers community. 🧵💙  
 [Shreyanshi Bhatt](https://www.linkedin.com/in/shreyanshi-bhatt-3bab3324b/)
 
