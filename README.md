@@ -13,6 +13,8 @@ This is the beta version of the app and the full-fledged production is under con
 
 ## UI Sneak Peak 😍 (Do not click on this link: [secret](https://weaveit.vercel.app/sign-in))
 
+![image](https://github.com/user-attachments/assets/22450018-f532-424b-adc7-b4aa26d97c76)
+![image](https://github.com/user-attachments/assets/c9741812-84d7-41a4-95eb-2303413259eb)
 ![image](https://github.com/user-attachments/assets/160b26c9-cfab-4184-bf01-dbb3d962cc76)
 ![image](https://github.com/user-attachments/assets/9bf5f98f-ab2d-4c89-8821-009f0a70f8b8)
 ![image](https://github.com/user-attachments/assets/831f5ae1-7dc5-485c-b5a9-8ecc39df130b)
