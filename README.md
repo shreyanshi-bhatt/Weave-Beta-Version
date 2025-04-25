@@ -13,13 +13,17 @@ This is the beta version of the app and the full-fledged production is under con
 
 ## UI Sneak Peak 😍 (Do not click on this link: [secret](https://weaveit.vercel.app/sign-in))
 
-![image](https://github.com/user-attachments/assets/74052e2a-d6ea-4d72-b11a-347365102e92)
-![image](https://github.com/user-attachments/assets/b9f33d60-d747-47bd-9996-0a202883da93)
-![image](https://github.com/user-attachments/assets/b44e1c33-5c38-402e-bddb-2066268fa556)
-![image](https://github.com/user-attachments/assets/19b3ed28-695f-41da-bc24-a383993a470a)
-![image](https://github.com/user-attachments/assets/231b6f7c-4bec-4741-95e2-0a5d1977d936)
-![image](https://github.com/user-attachments/assets/e6aa418f-0b5d-4620-afea-f2c72eefb5b4)
-![image](https://github.com/user-attachments/assets/35c3a30c-9fc0-47b0-8591-9fdb44b8cbec)
-![image](https://github.com/user-attachments/assets/f3a35961-30d1-4655-8fda-7ff73237fd6e)
+![image](https://github.com/user-attachments/assets/160b26c9-cfab-4184-bf01-dbb3d962cc76)
+![image](https://github.com/user-attachments/assets/831f5ae1-7dc5-485c-b5a9-8ecc39df130b)
+![image](https://github.com/user-attachments/assets/0cd0e8d3-8076-4a0b-a387-eddafdd39d93)
+![image](https://github.com/user-attachments/assets/1cdbd5a0-3fed-4212-bb39-f5ef09c996ce)
+![image](https://github.com/user-attachments/assets/d8a1c6e7-f958-4940-9b77-dcc017e84918)
+![image](https://github.com/user-attachments/assets/b0f22885-46f7-4e06-8400-0d43623d387d)
+![image](https://github.com/user-attachments/assets/67b42346-0ebb-4188-ac07-b67f07ae140a)
+![image](https://github.com/user-attachments/assets/8e040e2a-551d-48cd-94af-b668d1ca6090)
+![image](https://github.com/user-attachments/assets/8e9aaff6-e9a9-4f30-bc19-8494eda3ddde)
+![image](https://github.com/user-attachments/assets/090b943c-48d5-458b-bf51-459373d4ff94)
+
+
 
 
