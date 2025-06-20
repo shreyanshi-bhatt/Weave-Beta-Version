@@ -2,7 +2,7 @@
 Hello, my name is Shreyanshi Bhatt and I am the founder of Weave. 🙋🏻‍♀️ 
 
 ## Description
-Weave is a social media platform designed to connect international students, helping them share experiences, access study-abroad resources, and build community. It features country-specific post feeds, hashtag-based content discovery, interactive posts (like, comment, save), recent user highlights, and a fully responsive PWA experience with dark and light mode support. The platform includes a Buddy Matcher that intelligently pairs users based on shared interests to encourage meaningful connections. Future development focuses on integrating Agentic AI to offer personalized employment support and career exploration tools. ✨
+Weave is a social media platform designed to connect international students, helping them share experiences, access study-abroad resources, and build community. It features country-specific post feeds, hashtag-based content discovery, interactive posts (like, comment, save), recent user highlights, and a fully responsive PWA experience with dark and light mode support. The platform includes a Buddy Matcher that intelligently pairs users based on shared interests to encourage meaningful connections. Future development focuses on integrating Agentic AI to offer personalized support and career exploration tools. ✨
 
 ## 1 Goal 
 Empower international students & Make studying abroad easier. 🌏
